@@ -1,0 +1,74 @@
+{
+  "songs": [
+    {
+      "id": 1,
+      "img": "/img/godzilla.jpg",
+      "name": "Gió nổi rồi",
+      "author": "Châu Thâm",
+      "path": "/music/song1.mp3"
+    },
+    {
+      "id": 2,
+      "img": "/img/godzilla.jpg",
+      "name": "Gió nổi rồi 2",
+      "author": "Châu Thâm",
+      "path": "/music/song1.mp3"
+    },
+    {
+      "id": 3,
+      "img": "/img/godzilla.jpg",
+      "name": "Gió nổi rồi 3",
+      "author": "Châu Thâm",
+      "path": "/music/song1.mp3"
+    },
+    {
+      "id": 4,
+      "img": "/img/godzilla.jpg",
+      "name": "Gió nổi rồi 4",
+      "author": "Châu Thâm",
+      "path": "/music/song1.mp3"
+    },
+    {
+      "id": 5,
+      "img": "/img/godzilla.jpg",
+      "name": "Gió nổi rồi 5",
+      "author": "Châu Thâm",
+      "path": "/music/song1.mp3"
+    },
+    {
+      "id": 6,
+      "img": "/img/godzilla.jpg",
+      "name": "Gió nổi rồi 6",
+      "author": "Châu Thâm",
+      "path": "/music/song1.mp3"
+    },
+    {
+      "id": 7,
+      "img": "/img/godzilla.jpg",
+      "name": "Gió nổi rồi 7",
+      "author": "Châu Thâm",
+      "path": "/music/song1.mp3"
+    },
+    {
+      "id": 8,
+      "img": "/img/godzilla.jpg",
+      "name": "Gió nổi rồi 8",
+      "author": "Châu Thâm",
+      "path": "/music/song1.mp3"
+    },
+    {
+      "id": 9,
+      "img": "/img/godzilla.jpg",
+      "name": "Gió nổi rồi 9",
+      "author": "Châu Thâm",
+      "path": "/music/song1.mp3"
+    },
+    {
+      "img": "/img/godzilla.jpg",
+      "name": "gió nổi rồi 10",
+      "author": "Châu thâm",
+      "path": "/music/song1.mp3",
+      "id": 10
+    }
+  ]
+}
